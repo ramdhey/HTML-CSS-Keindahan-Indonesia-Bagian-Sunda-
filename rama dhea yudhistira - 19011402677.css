@@ -1,0 +1,39 @@
+
+body{
+	background: url('background6.png');
+	color: #fff;
+}
+ 
+    .judul{
+        color: orange;
+        font-family: sans-serif;
+        text-align: center;
+        font-size: 24pt;
+        font-style: bold;
+        
+    }
+
+    .border {
+        border-width: 2px;
+        border-style: solid;
+        border-color:brown;
+    }
+
+    .satu{
+        color: white;
+        font-family: sans-serif;
+        text-align: justify; 
+        width: 1300px;
+        height: 200px;
+    }
+  
+    .dua{
+        text-indent: 50px;
+        color: white;
+        font-family: sans-serif;
+         
+        width: 1300px;
+        height: 200px;
+    }
+    
+}
